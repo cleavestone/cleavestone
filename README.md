@@ -4,6 +4,7 @@
 **cleavestone/cleavestone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 🔭 I’m currently working on honing my skills in data analysis and visualization techniques through hands-on projects and online courses.
 🌱 I’m currently learning advanced machine learning algorithms and techniques to enhance my predictive analytics capabilities.
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 📫 How to reach me: Feel free to contact me via email at [Your Email Address].
 😄 Pronouns: He/Him
 ⚡ Fun fact: I enjoy watching movies 
--->
+
