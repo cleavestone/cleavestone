@@ -64,7 +64,7 @@ Data Scientist at **Solutech Limited** specializing in Computer Vision, MLOps, a
 
 ## 🚀 Featured Projects
 
-### 🤖 [Research Agent](https://github.com/cleavestone/research-agent)
+### 🤖 [Research Agent](https://github.com/cleavestone/Agentic-Research-Assistant)
 **AI-Powered Research Assistant with ReAct Agent Loop**
 - Built production-ready streaming API with FastAPI & SSE
 - Implemented ReAct agent loop with task planning & self-reflection
